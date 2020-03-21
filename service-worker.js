@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/encrypted-puzzle-generator/precache-manifest.fad102ab61096f94a5566690e3db6732.js"
+  "/encrypted-puzzle-generator/precache-manifest.3b4fdeab1b18a3ad25fbd8053b452f84.js"
 );
 
 self.addEventListener('message', (event) => {

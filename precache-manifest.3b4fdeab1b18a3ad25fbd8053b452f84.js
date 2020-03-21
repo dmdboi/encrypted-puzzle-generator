@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "45a3a920345e03aa78d82ae460186c28",
+    "revision": "8e03cb91a88500813c11498f50226cf8",
     "url": "/encrypted-puzzle-generator/index.html"
   },
   {
-    "revision": "c1570d12d3c34de5a840",
+    "revision": "5b25aae36f0af1c3c4e9",
     "url": "/encrypted-puzzle-generator/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "02322dacf329405b5132",
-    "url": "/encrypted-puzzle-generator/static/js/2.c544e312.chunk.js"
+    "revision": "d1ad310b32b0f1d0f712",
+    "url": "/encrypted-puzzle-generator/static/js/2.858e2dec.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/encrypted-puzzle-generator/static/js/2.c544e312.chunk.js.LICENSE.txt"
+    "url": "/encrypted-puzzle-generator/static/js/2.858e2dec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c1570d12d3c34de5a840",
-    "url": "/encrypted-puzzle-generator/static/js/main.b670f1dd.chunk.js"
+    "revision": "5b25aae36f0af1c3c4e9",
+    "url": "/encrypted-puzzle-generator/static/js/main.71ffd7da.chunk.js"
   },
   {
     "revision": "eb6fecad086784c85d9e",
